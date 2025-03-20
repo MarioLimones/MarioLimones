@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Mario Limones Bernabé
 
-<!--
-**MarioLimones/MarioLimones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Aplicaciones Multiplataforma** | 🎓 Estudiante en mi primer año en el sector
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología y la programación, en constante aprendizaje para crear soluciones innovadoras. Actualmente, me especializo en el desarrollo de software con un enfoque en aplicaciones multiplataforma. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+- 🔹 **Lenguajes:** Java, JavaScript, Python
+- 🔹 **Frontend:** HTML, CSS, Bootstrap
+- 🔹 **Backend:** Node.js, SQL
+- 🔹 **Herramientas:** Git, Visual Studio Code, Docker
+
+## 🌱 En constante aprendizaje
+Siempre busco mejorar mis habilidades y explorar nuevas tecnologías. Actualmente, estoy profundizando en **desarrollo web con Bootstrap** y en la creación de aplicaciones eficientes y escalables.
+
+## 📫 Conéctate conmigo
+📍 **GitHub:** [Tu usuario de GitHub]  
+📍 **LinkedIn:** [Tu perfil de LinkedIn]  
+
+¡Estoy abierto a colaboraciones y nuevos retos! 🚀
