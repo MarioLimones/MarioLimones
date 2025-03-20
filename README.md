@@ -6,7 +6,7 @@ Soy un apasionado de la tecnología y la programación, en constante aprendizaje
 
 ## 🚀 Tecnologías y herramientas
 - 🔹 **Lenguajes:** Java, JavaScript
-- 🔹 **Frontend:** HTML, CSS, Bootstrap
+- 🔹 **Frontend:** HTML, CSS
 - 🔹 **Backend:** Node.js, SQL
 - 🔹 **Herramientas:** Git, Visual Studio Code
 
