@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Mario Limones Bernabé
 
-💻 **Desarrollador de Aplicaciones Multiplataforma** | 🎓 Estudiante en mi primer año en el sector
+💻 **Desarrollador de Aplicaciones Multiplataforma** | 🎓 Estudiante en mi segundo año en el sector
 
 Soy un apasionado de la tecnología y la programación, en constante aprendizaje para crear soluciones innovadoras. Actualmente, me especializo en el desarrollo de software con un enfoque en aplicaciones multiplataforma. 
 
