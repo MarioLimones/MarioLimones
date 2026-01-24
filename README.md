@@ -17,3 +17,4 @@ Siempre busco mejorar mis habilidades y explorar nuevas tecnologías. Actualment
 📍 **LinkedIn:** [Mario Limones Bernabé](https://www.linkedin.com/in/mariolimonesbernabe/)] 
 
 ¡Estoy abierto a colaboraciones y nuevos retos! 🚀
+<img width="1536" height="1024" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/5e5593be-264f-4e5b-b4a5-e59967ba6e02" />
