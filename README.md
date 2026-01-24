@@ -24,21 +24,23 @@ Siempre busco mejorar mis habilidades y explorar nuevas tecnologías. Actualment
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
+### 🕹️ Gestor de Tareas Android
 
-### 🕹️ Piedra, papel o tijera
-
-<img width="800" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9" />
+<p align="center">
+  <img width="700" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9" />
+</p>
 
 Aplicación Android desarrollada para la gestión de tareas personales. Permite crear, editar y eliminar tareas, así como marcar su estado de completado, ofreciendo una interfaz limpia e intuitiva orientada a una experiencia de usuario fluida.
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/TU_REPO">
+  <a href="https://github.com/MarioLimones/gestor_de_tareas_android">
     <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
