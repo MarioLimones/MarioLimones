@@ -7,6 +7,7 @@ Soy un apasionado de la tecnología y la programación, en constante aprendizaje
 ## 🚀 Tecnologías y herramientas
 - 🔹 **Backend:** Java, Node, Spring Boot, Python, Odoo, Express, TypeScript
 - 🔹 **Frontend:** HTML, CSS, JavaScript, React Native, Pug, Figma, TypeScript
+- 🔹 **Mobile / Multiplataforma:** Android (Kotlin), React Native
 - 🔹 **Herramientas:** Docker, Swagger, Git
 
 ## 🌱 En constante aprendizaje
@@ -17,4 +18,27 @@ Siempre busco mejorar mis habilidades y explorar nuevas tecnologías. Actualment
 📍 **LinkedIn:** [Mario Limones Bernabé](https://www.linkedin.com/in/mariolimonesbernabe/)] 
 
 ¡Estoy abierto a colaboraciones y nuevos retos! 🚀
-<img width="1536" height="1024" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/5e5593be-264f-4e5b-b4a5-e59967ba6e02" />
+
+
+## 📁 Proyectos recientes
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+
+### 🕹️ Piedra, papel o tijera
+
+<img width="800" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9" />
+
+Aplicación Android desarrollada para la gestión de tareas personales. Permite crear, editar y eliminar tareas, así como marcar su estado de completado, ofreciendo una interfaz limpia e intuitiva orientada a una experiencia de usuario fluida.
+
+<p align="center">
+  <a href="https://github.com/TU_USUARIO/TU_REPO">
+    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
