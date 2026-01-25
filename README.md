@@ -29,7 +29,7 @@ Siempre busco mejorar mis habilidades y explorar nuevas tecnologías. Actualment
 ### 🕹️ Gestor de Tareas Android
 
 <p align="center">
-  <img width="700" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9" />
+  <img width="400" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9" />
 </p>
 
 Aplicación Android desarrollada para la gestión de tareas personales. Permite crear, editar y eliminar tareas, así como marcar su estado de completado, ofreciendo una interfaz limpia e intuitiva orientada a una experiencia de usuario fluida.
