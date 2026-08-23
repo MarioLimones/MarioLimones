@@ -1,4 +1,4 @@
-# 👋 Hola, soy Mario Limones Bernabé
+#Mario Limones Bernabé
 
 ### 💻 Desarrollador de Aplicaciones Multiplataforma | Backend & Full Stack Developer
 
@@ -6,7 +6,7 @@ Desarrollador de software especializado en la creación de aplicaciones **backen
 
 Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos personales con tecnologías como **Java, Spring Boot, TypeScript, Node.js, React Native y Docker**.
 
-Me interesa especialmente el desarrollo **Backend con Java y Spring Boot**, aunque también tengo experiencia trabajando con frontend, aplicaciones móviles y APIs REST.
+Mi principal interés profesional está orientado al **desarrollo Backend con Java y Spring Boot**, aunque también tengo experiencia trabajando con frontend, aplicaciones móviles y APIs REST.
 
 ---
 
@@ -20,6 +20,7 @@ Me interesa especialmente el desarrollo **Backend con Java y Spring Boot**, aunq
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)
 
 ### Frontend
 
@@ -30,7 +31,7 @@ Me interesa especialmente el desarrollo **Backend con Java y Spring Boot**, aunq
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge\&logo=pug\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
-### Mobile
+### Mobile / Multiplataforma
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
@@ -46,20 +47,40 @@ Me interesa especialmente el desarrollo **Backend con Java y Spring Boot**, aunq
 
 ---
 
-# 📂 Proyectos destacados
+# 📁 Proyectos destacados
+
+## 🛒 Mini E-Commerce
+
+Proyecto de comercio electrónico desarrollado con el objetivo de construir una aplicación backend estructurada y cercana a un entorno real.
+
+El proyecto está orientado a practicar conceptos como:
+
+* Gestión de productos.
+* Gestión de categorías.
+* Control de stock.
+* Gestión de pedidos.
+* Validaciones.
+* Persistencia de datos.
+* Desarrollo de APIs REST.
+* Arquitectura por capas.
+* Buenas prácticas de desarrollo.
+
+### Stack principal
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+> 🚧 Proyecto actualmente en desarrollo.
+
+---
 
 ## 🕹️ Gestor de Tareas Android
 
-Aplicación Android desarrollada para gestionar tareas personales de manera sencilla e intuitiva.
+Aplicación Android desarrollada para la gestión de tareas personales.
 
-Permite:
-
-* Crear nuevas tareas.
-* Editar tareas existentes.
-* Eliminar tareas.
-* Marcar tareas como completadas.
-* Gestionar el estado de cada tarea.
-* Mantener una interfaz clara y sencilla para el usuario.
+Permite crear, editar y eliminar tareas, además de gestionar su estado de completado mediante una interfaz sencilla e intuitiva.
 
 <p align="center">
   <img
@@ -68,6 +89,15 @@ Permite:
     src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9"
   />
 </p>
+
+### Funcionalidades
+
+* Crear nuevas tareas.
+* Editar tareas existentes.
+* Eliminar tareas.
+* Marcar tareas como completadas.
+* Gestionar el estado de las tareas.
+* Interfaz adaptada a dispositivos Android.
 
 ### Tecnologías utilizadas
 
@@ -82,102 +112,58 @@ Permite:
 
 ---
 
-## 🛒 Mini E-Commerce
-
-Proyecto de comercio electrónico orientado a practicar el desarrollo de aplicaciones modernas utilizando una arquitectura backend estructurada.
-
-El objetivo del proyecto es implementar funcionalidades reales como:
-
-* Gestión de productos.
-* Categorías.
-* Stock.
-* Pedidos.
-* Usuarios.
-* API REST.
-* Persistencia de datos.
-* Validaciones.
-* Arquitectura por capas.
-
-### Stack principal
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-> 🚧 Proyecto actualmente en desarrollo.
-
----
-
 # 🧠 Actualmente aprendiendo
 
 Actualmente estoy profundizando en:
 
-```text
-☕ Java avanzado
-🌱 Spring Boot
-🔗 Diseño de APIs REST
-🏗️ Arquitectura Backend
-🐳 Docker
-🧪 Testing
-⚙️ CI/CD
-🗄️ Bases de datos
-```
+* ☕ Java avanzado.
+* 🌱 Spring Boot.
+* 🔗 Diseño y desarrollo de APIs REST.
+* 🏗️ Arquitectura Backend.
+* 🐳 Docker.
+* 🧪 Testing.
+* ⚙️ CI/CD.
+* 🗄️ Bases de datos.
+* 🔐 Seguridad en aplicaciones.
+* 📦 Buenas prácticas y código mantenible.
 
-Mi objetivo es continuar mejorando mis conocimientos en **Backend Development**, buenas prácticas, arquitectura de software y desarrollo de aplicaciones escalables.
-
----
-
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=MarioLimones&show_icons=true&theme=github_dark&hide_border=true"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLimones&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</p>
+Mi objetivo es seguir mejorando en el desarrollo de aplicaciones escalables, arquitectura de software y desarrollo Backend profesional.
 
 ---
 
-# 🔥 Actividad
+# 🎯 Objetivos profesionales
 
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLimones&theme=github-dark-blue&hide_border=true"
-/>
-
-</p>
-
----
-
-# 🎯 Objetivos
-
-* Seguir desarrollando proyectos reales.
+* Seguir desarrollando proyectos reales y completos.
 * Mejorar mis conocimientos de **Java y Spring Boot**.
-* Profundizar en arquitectura backend.
+* Profundizar en arquitectura Backend.
 * Trabajar con Docker y automatización CI/CD.
 * Mejorar testing y calidad de código.
+* Seguir aprendiendo buenas prácticas de desarrollo.
 * Participar en proyectos profesionales y colaborativos.
 * Continuar creciendo como desarrollador de software.
 
 ---
 
+# 📊 Actividad en GitHub
+
+En mi perfil puedes encontrar proyectos personales, ejercicios de aprendizaje y aplicaciones completas en las que aplico nuevas tecnologías y conceptos de desarrollo.
+
+<p align="center">
+  <a href="https://github.com/MarioLimones?tab=repositories">
+    <img src="https://img.shields.io/badge/VER_MIS_REPOSITORIOS-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
 # 🤝 Contacto
 
-Estoy abierto a oportunidades laborales, colaboraciones y proyectos relacionados con desarrollo de software.
+Estoy abierto a **oportunidades laborales, colaboraciones y proyectos relacionados con desarrollo de software**.
 
 <p align="left">
 
 <a href="https://github.com/MarioLimones">
-  <img src="https://img.shields.io/badge/GitHub-MarioLimones-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-MarioLimones-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/mariolimonesbernabe/">
@@ -189,5 +175,5 @@ Estoy abierto a oportunidades laborales, colaboraciones y proyectos relacionados
 ---
 
 <p align="center">
-  <b>Siempre aprendiendo. Siempre construyendo.</b>
+  <b>Construyendo, aprendiendo y mejorando proyecto a proyecto.</b>
 </p>
