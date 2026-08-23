@@ -1,5 +1,3 @@
-#Mario Limones Bernabé
-
 ### 💻 Desarrollador de Aplicaciones Multiplataforma | Backend & Full Stack Developer
 
 Desarrollador de software especializado en la creación de aplicaciones **backend, web y multiplataforma**, con especial interés en construir soluciones escalables, mantenibles y bien estructuradas.
