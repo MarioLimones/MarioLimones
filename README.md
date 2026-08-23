@@ -1,46 +1,193 @@
-# 👋 ¡Hola! Soy Mario Limones Bernabé
+# 👋 Hola, soy Mario Limones Bernabé
 
-💻 **Desarrollador de Aplicaciones Multiplataforma** | 🎓 Estudiante en mi segundo año en el sector
+### 💻 Desarrollador de Aplicaciones Multiplataforma | Backend & Full Stack Developer
 
-Soy un apasionado de la tecnología y la programación, en constante aprendizaje para crear soluciones innovadoras. Actualmente, me especializo en el desarrollo de software con un enfoque en aplicaciones multiplataforma. 
+Desarrollador de software especializado en la creación de aplicaciones **backend, web y multiplataforma**, con especial interés en construir soluciones escalables, mantenibles y bien estructuradas.
 
-## 🚀 Tecnologías y herramientas
-- 🔹 **Backend:** Java, Node, Spring Boot, Python, Odoo, Express, TypeScript
-- 🔹 **Frontend:** HTML, CSS, JavaScript, React Native, Pug, Figma, TypeScript
-- 🔹 **Mobile / Multiplataforma:** Android (Kotlin), React Native
-- 🔹 **Herramientas:** Docker, Swagger, Git
+Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos personales con tecnologías como **Java, Spring Boot, TypeScript, Node.js, React Native y Docker**.
 
-## 🌱 En constante aprendizaje
-Siempre busco mejorar mis habilidades y explorar nuevas tecnologías. Actualmente, estoy profundizando en la creación de aplicaciones eficientes y escalables.
+Me interesa especialmente el desarrollo **Backend con Java y Spring Boot**, aunque también tengo experiencia trabajando con frontend, aplicaciones móviles y APIs REST.
 
-## 📫 Conéctate conmigo
-📍 **GitHub:** MarioLimones
-📍 **LinkedIn:** [Mario Limones Bernabé](https://www.linkedin.com/in/mariolimonesbernabe/)] 
+---
 
-¡Estoy abierto a colaboraciones y nuevos retos! 🚀
+## 🚀 Tecnologías
 
+### Backend
 
-## 📁 Proyectos recientes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-<table>
-<tr>
-<td width="100%" valign="top">
+### Frontend
 
-### 🕹️ Gestor de Tareas Android
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge\&logo=pug\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+### Mobile
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Herramientas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 📂 Proyectos destacados
+
+## 🕹️ Gestor de Tareas Android
+
+Aplicación Android desarrollada para gestionar tareas personales de manera sencilla e intuitiva.
+
+Permite:
+
+* Crear nuevas tareas.
+* Editar tareas existentes.
+* Eliminar tareas.
+* Marcar tareas como completadas.
+* Gestionar el estado de cada tarea.
+* Mantener una interfaz clara y sencilla para el usuario.
 
 <p align="center">
-  <img width="400" alt="portada_gestortareas" src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9" />
+  <img
+    width="500"
+    alt="Gestor de tareas Android"
+    src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9"
+  />
 </p>
 
-Aplicación Android desarrollada para la gestión de tareas personales. Permite crear, editar y eliminar tareas, así como marcar su estado de completado, ofreciendo una interfaz limpia e intuitiva orientada a una experiencia de usuario fluida.
+### Tecnologías utilizadas
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/MarioLimones/gestor_de_tareas_android">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
-</td>
-</tr>
-</table>
+---
 
+## 🛒 Mini E-Commerce
+
+Proyecto de comercio electrónico orientado a practicar el desarrollo de aplicaciones modernas utilizando una arquitectura backend estructurada.
+
+El objetivo del proyecto es implementar funcionalidades reales como:
+
+* Gestión de productos.
+* Categorías.
+* Stock.
+* Pedidos.
+* Usuarios.
+* API REST.
+* Persistencia de datos.
+* Validaciones.
+* Arquitectura por capas.
+
+### Stack principal
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+> 🚧 Proyecto actualmente en desarrollo.
+
+---
+
+# 🧠 Actualmente aprendiendo
+
+Actualmente estoy profundizando en:
+
+```text
+☕ Java avanzado
+🌱 Spring Boot
+🔗 Diseño de APIs REST
+🏗️ Arquitectura Backend
+🐳 Docker
+🧪 Testing
+⚙️ CI/CD
+🗄️ Bases de datos
+```
+
+Mi objetivo es continuar mejorando mis conocimientos en **Backend Development**, buenas prácticas, arquitectura de software y desarrollo de aplicaciones escalables.
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=MarioLimones&show_icons=true&theme=github_dark&hide_border=true"
+/>
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLimones&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🔥 Actividad
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLimones&theme=github-dark-blue&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🎯 Objetivos
+
+* Seguir desarrollando proyectos reales.
+* Mejorar mis conocimientos de **Java y Spring Boot**.
+* Profundizar en arquitectura backend.
+* Trabajar con Docker y automatización CI/CD.
+* Mejorar testing y calidad de código.
+* Participar en proyectos profesionales y colaborativos.
+* Continuar creciendo como desarrollador de software.
+
+---
+
+# 🤝 Contacto
+
+Estoy abierto a oportunidades laborales, colaboraciones y proyectos relacionados con desarrollo de software.
+
+<p align="left">
+
+<a href="https://github.com/MarioLimones">
+  <img src="https://img.shields.io/badge/GitHub-MarioLimones-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/mariolimonesbernabe/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mario_Limones-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Siempre aprendiendo. Siempre construyendo.</b>
+</p>
