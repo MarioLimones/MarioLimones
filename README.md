@@ -1,177 +1,151 @@
-### 💻 Desarrollador de Aplicaciones Multiplataforma | Backend & Full Stack Developer
+<h1 align="center">Mario Limones Bernabé</h1>
 
-Desarrollador de software especializado en la creación de aplicaciones **backend, web y multiplataforma**, con especial interés en construir soluciones escalables, mantenibles y bien estructuradas.
-
-Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos personales con tecnologías como **Java, Spring Boot, TypeScript, Node.js, React Native y Docker**.
-
-Mi principal interés profesional está orientado al **desarrollo Backend con Java y Spring Boot**, aunque también tengo experiencia trabajando con frontend, aplicaciones móviles y APIs REST.
-
----
-
-## 🚀 Tecnologías
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge\&logo=pug\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-### Mobile / Multiplataforma
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Herramientas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-# 📁 Proyectos destacados
-
-## 🛒 Mini E-Commerce
-
-Proyecto de comercio electrónico desarrollado con el objetivo de construir una aplicación backend estructurada y cercana a un entorno real.
-
-El proyecto está orientado a practicar conceptos como:
-
-* Gestión de productos.
-* Gestión de categorías.
-* Control de stock.
-* Gestión de pedidos.
-* Validaciones.
-* Persistencia de datos.
-* Desarrollo de APIs REST.
-* Arquitectura por capas.
-* Buenas prácticas de desarrollo.
-
-### Stack principal
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-> 🚧 Proyecto actualmente en desarrollo.
-
----
-
-## 🕹️ Gestor de Tareas Android
-
-Aplicación Android desarrollada para la gestión de tareas personales.
-
-Permite crear, editar y eliminar tareas, además de gestionar su estado de completado mediante una interfaz sencilla e intuitiva.
+<h3 align="center">Desarrollador de software | Backend & Full Stack</h3>
 
 <p align="center">
-  <img
-    width="500"
-    alt="Gestor de tareas Android"
-    src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9"
-  />
+  Desarrollo aplicaciones web, APIs REST y soluciones multiplataforma, con especial interés en la lógica de negocio, la arquitectura backend y el código mantenible.
 </p>
 
-### Funcionalidades
-
-* Crear nuevas tareas.
-* Editar tareas existentes.
-* Eliminar tareas.
-* Marcar tareas como completadas.
-* Gestionar el estado de las tareas.
-* Interfaz adaptada a dispositivos Android.
-
-### Tecnologías utilizadas
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
-
 <p align="center">
-  <a href="https://github.com/MarioLimones/gestor_de_tareas_android">
-    <img src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.linkedin.com/in/mariolimonesbernabe/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-</p>
-
----
-
-# 🧠 Actualmente aprendiendo
-
-Actualmente estoy profundizando en:
-
-* ☕ Java avanzado.
-* 🌱 Spring Boot.
-* 🔗 Diseño y desarrollo de APIs REST.
-* 🏗️ Arquitectura Backend.
-* 🐳 Docker.
-* 🧪 Testing.
-* ⚙️ CI/CD.
-* 🗄️ Bases de datos.
-* 🔐 Seguridad en aplicaciones.
-* 📦 Buenas prácticas y código mantenible.
-
-Mi objetivo es seguir mejorando en el desarrollo de aplicaciones escalables, arquitectura de software y desarrollo Backend profesional.
-
----
-
-# 🎯 Objetivos profesionales
-
-* Seguir desarrollando proyectos reales y completos.
-* Mejorar mis conocimientos de **Java y Spring Boot**.
-* Profundizar en arquitectura Backend.
-* Trabajar con Docker y automatización CI/CD.
-* Mejorar testing y calidad de código.
-* Seguir aprendiendo buenas prácticas de desarrollo.
-* Participar en proyectos profesionales y colaborativos.
-* Continuar creciendo como desarrollador de software.
-
----
-
-# 📊 Actividad en GitHub
-
-En mi perfil puedes encontrar proyectos personales, ejercicios de aprendizaje y aplicaciones completas en las que aplico nuevas tecnologías y conceptos de desarrollo.
-
-<p align="center">
   <a href="https://github.com/MarioLimones?tab=repositories">
-    <img src="https://img.shields.io/badge/VER_MIS_REPOSITORIOS-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Repositorios" src="https://img.shields.io/badge/GitHub-Ver_proyectos-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://arkitev.com/">
+    <img alt="ARKITEV" src="https://img.shields.io/badge/ARKITEV-Ver_web-333333?style=flat-square&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
+## Sobre mí
+
+Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Trabajo con tecnologías de backend, frontend y desarrollo móvil, desde el diseño de APIs y modelos de datos hasta la construcción de interfaces.
+
+Mi principal foco profesional es el **desarrollo backend con Java y Spring Boot**, sin limitarme a un único stack. En mis proyectos también utilizo **Python, FastAPI, React, TypeScript y Astro** para construir soluciones completas.
+
+Me interesa especialmente resolver problemas reales mediante software: diseñar funcionalidades útiles, validar reglas de negocio, evitar errores de concurrencia y mantener el código organizado, probado y documentado.
+
+## Tecnologías
+
+Tecnologías con las que he trabajado o que utilizo en mis proyectos:
+
+**Backend y APIs**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+**Frontend y web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Bases de datos y persistencia**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-333333?style=flat-square)
+
+**Desarrollo móvil**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Herramientas, testing y diseño**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+Otras tecnologías: **PHP, Pug y Odoo**.
+
 ---
 
-# 🤝 Contacto
+## Proyectos destacados
 
-Estoy abierto a **oportunidades laborales, colaboraciones y proyectos relacionados con desarrollo de software**.
+### RentaLab — Sistema de reservas de material audiovisual
 
-<p align="left">
+**Aplicación full stack** que permite consultar equipos audiovisuales, comprobar su disponibilidad y gestionar reservas, con interfaces diferenciadas para clientes y administradores.
 
-<a href="https://github.com/MarioLimones">
-  <img src="https://img.shields.io/badge/GitHub-MarioLimones-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+- **Catálogo y disponibilidad:** búsqueda, fichas de equipos, características técnicas y calendarios de fechas.
+- **Reservas robustas:** validación de intervalos, asignación de unidades disponibles y control de conflictos ante solicitudes simultáneas.
+- **Portal de cliente y administración:** registro e inicio de sesión, permisos por rol, reservas propias, gestión global e incidencias.
+- **Operaciones avanzadas:** reservas conjuntas, cancelaciones e importación de datos CSV.
+- **Calidad y despliegue:** pruebas automatizadas, migraciones de base de datos y ejecución con Docker Compose.
 
-<a href="https://www.linkedin.com/in/mariolimonesbernabe/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mario_Limones-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+**Stack:** React · TypeScript · Vite · Python · FastAPI · SQLAlchemy · SQLite · Alembic · pytest · Vitest · Docker
 
-</p>
+[**Ver código y documentación**](https://github.com/MarioLimones/RentaLab) · [**Ver demostración en vídeo**](https://vimeo.com/1236521397)
 
 ---
+
+### ARKITEV — Web corporativa de software y soluciones digitales
+
+**Diseño y desarrollo de una web corporativa publicada**, enfocada en presentar servicios de desarrollo web, software a medida y automatización mediante una experiencia visual clara y adaptable a distintos dispositivos.
+
+- Desarrollo con **Astro** y componentes reutilizables.
+- Maquetación y estilos personalizados con **TypeScript y CSS**.
+- Diseño responsive, navegación por secciones e interacciones visuales.
+- Animaciones y transiciones cuidadas, con atención a la experiencia de usuario y la preferencia de movimiento reducido.
+- Organización de servicios, proyectos y puntos de contacto dentro de una estructura coherente.
+
+**Stack:** Astro · TypeScript · HTML · CSS
+
+[**Visitar ARKITEV**](https://arkitev.com/)
+
+---
+
+### Gestor de Tareas Android — Aplicación móvil
+
+Aplicación Android para organizar tareas personales desde una interfaz sencilla y adaptada a dispositivos móviles.
+
+- Crear, editar y eliminar tareas.
+- Marcar tareas como completadas.
+- Organizar tareas y consultar su estado.
+- Practicar desarrollo nativo con Android y Kotlin.
+
+**Stack:** Android · Kotlin
 
 <p align="center">
-  <b>Construyendo, aprendiendo y mejorando proyecto a proyecto.</b>
+  <img width="440" alt="Captura de la aplicación Gestor de Tareas Android" src="https://github.com/user-attachments/assets/d82ccb2f-7121-4edf-b5fc-cb522fbde5a9">
+</p>
+
+[**Ver repositorio**](https://github.com/MarioLimones/gestor_de_tareas_android)
+
+---
+
+## Cómo enfoco el desarrollo
+
+En mis proyectos intento priorizar:
+
+- **Arquitectura clara:** responsabilidades separadas y lógica de negocio fuera de la interfaz.
+- **Datos consistentes:** validaciones en backend y control de operaciones que pueden entrar en conflicto.
+- **Pruebas y documentación:** comprobar escenarios reales y facilitar la comprensión del proyecto.
+- **Experiencia de usuario:** interfaces comprensibles, responsive y conectadas con funcionalidades útiles.
+
+Continúo profundizando en **Java, Spring Boot, arquitectura backend, seguridad, testing y CI/CD**.
+
+## Contacto
+
+Puedes encontrar más código en [mis repositorios de GitHub](https://github.com/MarioLimones?tab=repositories), ver la [web de ARKITEV](https://arkitev.com/) o contactar conmigo a través de [LinkedIn](https://www.linkedin.com/in/mariolimonesbernabe/).
+
+<p align="center">
+  <strong>Del problema a una solución funcional, mantenible y bien diseñada.</strong>
 </p>
