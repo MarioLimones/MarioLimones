@@ -92,7 +92,7 @@ Otras tecnologías: **PHP, Pug y Odoo**.
 
 **Stack:** React · TypeScript · Vite · Python · FastAPI · SQLAlchemy · SQLite · Alembic · pytest · Vitest · Docker
 
-[**Ver código y documentación**](https://github.com/MarioLimones/RentaLab) · [**Ver demostración en vídeo**](https://vimeo.com/1236521397)
+[**Ver código y documentación**](https://github.com/MarioLimones/RentaLab)
 
 ---
 
